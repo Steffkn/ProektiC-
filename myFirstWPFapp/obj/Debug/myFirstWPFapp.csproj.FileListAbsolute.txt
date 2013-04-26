@@ -1,0 +1,1 @@
+C:\Users\USER\Documents\Visual Studio 2012\Projects\myFirstWPFapp\myFirstWPFapp\bin\Debug\myFirstWPFapp.exe.config
