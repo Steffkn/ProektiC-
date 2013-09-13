@@ -1,0 +1,22 @@
+﻿<Window x:Class="_01.WPFSteff_sWorld.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="600" Width="800">
+    <Grid Margin="0,0,0,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="30*"/>
+            <ColumnDefinition Width="30*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Ok" Grid.Column="1" HorizontalAlignment="Left" Margin="198,458,0,0" VerticalAlignment="Top" Width="80" RenderTransformOrigin="0.43,0.537" IsDefault="True" Height="30"/>
+        <Button Content="Cancel" Grid.Column="1" HorizontalAlignment="Left" Margin="113,458,0,0" VerticalAlignment="Top" Width="80" IsCancel="True" Height="30" Click="Button_Click_1"/>
+        <Button Content="PLAY" Grid.Column="1" HorizontalAlignment="Left" Margin="113,380,0,0" VerticalAlignment="Top" Width="164" Height="60"/>
+        <RichTextBox HorizontalAlignment="Left" Height="430" Margin="30,10,0,0" VerticalAlignment="Top" Width="356" TextChanged="RichTextBox_TextChanged_1">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="RichTextBox"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+    </Grid>
+</Window>

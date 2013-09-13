@@ -1,0 +1,5 @@
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\ConsoleColerBeep\02.ConsoleBeepTest\bin\Debug\02.ConsoleBeepTest.exe.config
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\ConsoleColerBeep\02.ConsoleBeepTest\bin\Debug\02.ConsoleBeepTest.exe
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\ConsoleColerBeep\02.ConsoleBeepTest\bin\Debug\02.ConsoleBeepTest.pdb
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\ConsoleColerBeep\02.ConsoleBeepTest\obj\Debug\02.ConsoleBeepTest.exe
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\ConsoleColerBeep\02.ConsoleBeepTest\obj\Debug\02.ConsoleBeepTest.pdb

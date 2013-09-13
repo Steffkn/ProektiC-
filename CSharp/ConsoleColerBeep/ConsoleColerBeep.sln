@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ConsoleColorTest", "01.ConsoleColorTest\01.ConsoleColorTest.csproj", "{4CDA6CB1-56E9-43EA-991D-C37426CDD370}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ConsoleBeepTest", "02.ConsoleBeepTest\02.ConsoleBeepTest.csproj", "{FD377F36-823C-45D6-9F3F-7B7CDC03C031}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CDA6CB1-56E9-43EA-991D-C37426CDD370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CDA6CB1-56E9-43EA-991D-C37426CDD370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CDA6CB1-56E9-43EA-991D-C37426CDD370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CDA6CB1-56E9-43EA-991D-C37426CDD370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD377F36-823C-45D6-9F3F-7B7CDC03C031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD377F36-823C-45D6-9F3F-7B7CDC03C031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD377F36-823C-45D6-9F3F-7B7CDC03C031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD377F36-823C-45D6-9F3F-7B7CDC03C031}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

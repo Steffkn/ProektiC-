@@ -1,0 +1,5 @@
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\ConsoleColerBeep\01.ConsoleColorTest\bin\Debug\01.ConsoleColorTest.exe.config
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\ConsoleColerBeep\01.ConsoleColorTest\bin\Debug\01.ConsoleColorTest.exe
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\ConsoleColerBeep\01.ConsoleColorTest\bin\Debug\01.ConsoleColorTest.pdb
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\ConsoleColerBeep\01.ConsoleColorTest\obj\Debug\01.ConsoleColorTest.exe
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\ConsoleColerBeep\01.ConsoleColorTest\obj\Debug\01.ConsoleColorTest.pdb

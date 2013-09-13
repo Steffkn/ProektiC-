@@ -1,0 +1,12 @@
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\ChatApp\ChatApp\bin\Debug\ChatApp.exe.config
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\ChatApp\ChatApp\bin\Debug\ChatApp.exe
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\ChatApp\ChatApp\obj\Debug\ChatApp.csprojResolveAssemblyReference.cache
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\ChatApp\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.Cache
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\ChatApp\ChatApp\obj\Debug\ChatApp.exe
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\ChatApp\ChatApp\obj\Debug\ChatApp.PrivateChat.resources
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\ChatApp\ChatApp\bin\Debug\en-GB\ChatApp.resources.dll
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\ChatApp\ChatApp\obj\Debug\ChatApp.PrivateChat.en-GB.resources
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\ChatApp\ChatApp\obj\Debug\en-GB\ChatApp.resources.dll

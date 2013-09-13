@@ -1,0 +1,9 @@
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.exe.config
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.exe
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.pdb
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.Calculator.resources
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.Properties.Resources.resources
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.csproj.GenerateResource.Cache
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.exe
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.pdb
