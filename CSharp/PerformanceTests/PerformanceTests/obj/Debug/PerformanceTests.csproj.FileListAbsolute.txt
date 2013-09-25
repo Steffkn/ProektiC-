@@ -1,0 +1,6 @@
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\PerformanceTests\PerformanceTests\bin\Debug\PerformanceTests.exe.config
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\PerformanceTests\PerformanceTests\bin\Debug\PerformanceTests.exe
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\PerformanceTests\PerformanceTests\bin\Debug\PerformanceTests.pdb
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\PerformanceTests\PerformanceTests\obj\Debug\PerformanceTests.csprojResolveAssemblyReference.cache
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\PerformanceTests\PerformanceTests\obj\Debug\PerformanceTests.exe
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\PerformanceTests\PerformanceTests\obj\Debug\PerformanceTests.pdb

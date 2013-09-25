@@ -1,0 +1,5 @@
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\FindFilesInDir\FindFilesInDIr\bin\Release\FindFilesInDIr.exe.config
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\FindFilesInDir\FindFilesInDIr\bin\Release\FindFilesInDIr.exe
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\FindFilesInDir\FindFilesInDIr\bin\Release\FindFilesInDIr.pdb
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\FindFilesInDir\FindFilesInDIr\obj\Release\FindFilesInDIr.exe
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\FindFilesInDir\FindFilesInDIr\obj\Release\FindFilesInDIr.pdb

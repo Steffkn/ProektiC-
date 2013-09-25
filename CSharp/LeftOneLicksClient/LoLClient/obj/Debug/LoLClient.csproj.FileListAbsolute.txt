@@ -1,0 +1,15 @@
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\LeftOneLicksClient\LoLClient\bin\Debug\LoLClient.exe.config
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\LeftOneLicksClient\LoLClient\bin\Debug\LoLClient.exe
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\LeftOneLicksClient\LoLClient\bin\Debug\LoLClient.pdb
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\LeftOneLicksClient\LoLClient\obj\Debug\LoLClient.csprojResolveAssemblyReference.cache
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\LeftOneLicksClient\LoLClient\obj\Debug\App.g.cs
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\LeftOneLicksClient\LoLClient\obj\Debug\LoLClient_MarkupCompile.cache
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\LeftOneLicksClient\LoLClient\obj\Debug\LoLClient.g.resources
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\LeftOneLicksClient\LoLClient\obj\Debug\LoLClient.Properties.Resources.resources
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\LeftOneLicksClient\LoLClient\obj\Debug\LoLClient.csproj.GenerateResource.Cache
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\LeftOneLicksClient\LoLClient\obj\Debug\LoLClient.exe
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\LeftOneLicksClient\LoLClient\obj\Debug\LoLClient.pdb
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\LeftOneLicksClient\LoLClient\obj\Debug\LogoWindow.baml
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\LeftOneLicksClient\LoLClient\obj\Debug\LogoWindow.g.cs
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\LeftOneLicksClient\LoLClient\obj\Debug\LoLMainWindow.baml
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\LeftOneLicksClient\LoLClient\obj\Debug\LoLMainWindow.g.cs

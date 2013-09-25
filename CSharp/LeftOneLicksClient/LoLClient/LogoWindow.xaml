@@ -1,0 +1,15 @@
+﻿<Window x:Class="LoLClient.LogoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="LogoWindow" Width="433" Height="173"
+        
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="Transparent"
+        ResizeMode="NoResize">
+    
+    <Grid Name="logoGrid">
+        
+    </Grid>
+</Window>

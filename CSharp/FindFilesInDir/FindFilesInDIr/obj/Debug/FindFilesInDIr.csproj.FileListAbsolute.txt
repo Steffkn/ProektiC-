@@ -1,0 +1,6 @@
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\FindFilesInDir\FindFilesInDIr\bin\Debug\FindFilesInDIr.exe.config
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\FindFilesInDir\FindFilesInDIr\bin\Debug\FindFilesInDIr.exe
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\FindFilesInDir\FindFilesInDIr\bin\Debug\FindFilesInDIr.pdb
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\FindFilesInDir\FindFilesInDIr\obj\Debug\FindFilesInDIr.csprojResolveAssemblyReference.cache
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\FindFilesInDir\FindFilesInDIr\obj\Debug\FindFilesInDIr.exe
+C:\Users\Steff\Documents\GitHub\ProektiC-\CSharp\FindFilesInDir\FindFilesInDIr\obj\Debug\FindFilesInDIr.pdb

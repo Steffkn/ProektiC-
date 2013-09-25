@@ -62,13 +62,22 @@ namespace ChatApp
             // connecting
             remoteEndPoint = new IPEndPoint(IPAddress.Parse(textRemoteIP.Text), Convert.ToInt32(textRemotePort.Text));
             skt.Connect(remoteEndPoint);
-            //Listeninf the specific port
 
+            //Listening the specific port
             buffer = new byte[1500];
 
             skt.BeginReceiveFrom(buffer, 0, buffer.Length, SocketFlags.None, ref remoteEndPoint, new AsyncCallback(MessageCallBack), buffer);
 
-            buttonConnect.BackColor = Color.LightGreen;
+            if (skt.Connected)
+            {
+                buttonConnect.BackColor = Color.LightGreen;
+                buttonConnect.Text = "Connected";
+            }
+            else
+            {
+                buttonConnect.BackColor = Color.LightGray;
+                buttonConnect.Text = "Not connected";
+            }
         }
 
         private void MessageCallBack(IAsyncResult aResult)
@@ -86,7 +95,7 @@ namespace ChatApp
 
                 // adding the msg to the listbox
                 listViewMSG.View = View.Details;
-               
+
                 ListViewItem item1 = new ListViewItem("Friend", 0);
                 item1.SubItems.Add(reseivedMessage);
                 item1.SubItems.Add(string.Format("[{0,2}:{1,2}:{2,2}]", DateTime.Now.Hour, DateTime.Now.Minute, DateTime.Now.Second));
@@ -116,7 +125,7 @@ namespace ChatApp
             sendingMessage = asciiEndcoding.GetBytes(textMessage.Text);
             // sending the endcoded message
             skt.Send(sendingMessage);
-            
+
             // adding the msg to the listbox
             listViewMSG.View = View.Details;
 
@@ -138,14 +147,10 @@ namespace ChatApp
 
         private void Form1_KeyDown(object sender, KeyEventArgs e)
         {
-            if (e.KeyData == Keys.Enter)
-            {
-                if (textMessage.Text != "")
-                {
-                    buttonSend_Click(sender, e);
-                }
-            }
-            e.Handled = false;
+            //if (e.KeyCode == Keys.Enter)
+            //{
+            //    MessageBox.Show("Mainata ti");
+            //}
         }
 
         private void btnSwitchPorts_Click(object sender, EventArgs e)
