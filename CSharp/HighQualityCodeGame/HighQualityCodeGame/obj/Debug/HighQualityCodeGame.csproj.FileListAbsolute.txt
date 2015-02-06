@@ -1,0 +1,8 @@
+D:\DriveHub\GitHub\ProektiC-\CSharp\HighQualityCodeGame\HighQualityCodeGame\bin\Debug\HighQualityCodeGame.exe.config
+D:\DriveHub\GitHub\ProektiC-\CSharp\HighQualityCodeGame\HighQualityCodeGame\bin\Debug\HighQualityCodeGame.exe
+D:\DriveHub\GitHub\ProektiC-\CSharp\HighQualityCodeGame\HighQualityCodeGame\bin\Debug\HighQualityCodeGame.pdb
+D:\DriveHub\GitHub\ProektiC-\CSharp\HighQualityCodeGame\HighQualityCodeGame\obj\Debug\HighQualityCodeGame.csprojResolveAssemblyReference.cache
+D:\DriveHub\GitHub\ProektiC-\CSharp\HighQualityCodeGame\HighQualityCodeGame\obj\Debug\HighQualityCodeGame.exe
+D:\DriveHub\GitHub\ProektiC-\CSharp\HighQualityCodeGame\HighQualityCodeGame\obj\Debug\HighQualityCodeGame.pdb
+D:\DriveHub\GitHub\ProektiC-\CSharp\HighQualityCodeGame\HighQualityCodeGame\bin\Debug\HighQualityCodeGameLibrary.dll
+D:\DriveHub\GitHub\ProektiC-\CSharp\HighQualityCodeGame\HighQualityCodeGame\bin\Debug\HighQualityCodeGameLibrary.pdb

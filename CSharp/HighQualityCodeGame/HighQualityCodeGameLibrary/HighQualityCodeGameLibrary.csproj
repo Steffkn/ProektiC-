@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3920A81A-B76D-46AF-9A05-B5B83B9E319A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HighQualityCodeGameLibrary</RootNamespace>
+    <AssemblyName>HighQualityCodeGameLibrary</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\Champions\Ahri.cs" />
+    <Compile Include="Common\Champions\Alistar.cs" />
+    <Compile Include="Common\Champions\Amumu.cs" />
+    <Compile Include="Common\Champions\Annie.cs" />
+    <Compile Include="Common\Champions\Ashe.cs" />
+    <Compile Include="Common\Champions\Champion.cs" />
+    <Compile Include="Common\Champions\Elise.cs" />
+    <Compile Include="Common\Champions\Gragas.cs" />
+    <Compile Include="Common\Champions\Morgana.cs" />
+    <Compile Include="Common\Champions\Tristana.cs" />
+    <Compile Include="Common\Champions\Zed.cs" />
+    <Compile Include="Common\GameCharacter.cs" />
+    <Compile Include="Common\Monsters\LaneMonsterCaster.cs" />
+    <Compile Include="Common\Monsters\LaneMonsterFootman.cs" />
+    <Compile Include="Common\Monsters\LaneMonsterMegaBeast.cs" />
+    <Compile Include="Common\Player.cs" />
+    <Compile Include="Data\Champions.cs" />
+    <Compile Include="Data\Team.cs" />
+    <Compile Include="Interfaces\Champion\IChampion.cs" />
+    <Compile Include="Interfaces\IDamageMaker.cs" />
+    <Compile Include="Interfaces\IDestroyable.cs" />
+    <Compile Include="Interfaces\IInvisible.cs" />
+    <Compile Include="Interfaces\IMovable.cs" />
+    <Compile Include="Interfaces\ITeam.cs" />
+    <Compile Include="Interfaces\Monster\IMonster.cs" />
+    <Compile Include="Interfaces\Item\IITem.cs" />
+    <Compile Include="Interfaces\Item\IUsable.cs" />
+    <Compile Include="Interfaces\Player\IPlayer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
